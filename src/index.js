@@ -1,5 +1,5 @@
 const wtf_wikipedia = require('wtf_wikipedia');
-const fetch = require('wtf_fetch');
+//const fetch = require('wtf_fetch');
 const version = require('../package').version;
 
 //the main 'factory' exported method
