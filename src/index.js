@@ -8,5 +8,5 @@ const wtf4reveal = function(wiki, options) {
   return "wtf4reveal output"
 };
 wtf4reveal.version = version + "- wtf_wikipedia: " + wtf_wikipedia.version;
-
+wtf4reveal.fetch = wtf_wikipedia.fetch;
 module.exports = wtf4reveal;
